@@ -1,0 +1,14 @@
+body{
+    font-family: 'Roboto Slab', serif;  
+    background-image: linear-gradient(to bottom, #000000, #331019, #620f24, #920728, #c20023, #d6321e, #e85014, #f76d00, #ee9400, #d5ba00, #abde00, #59ff00);
+}
+.history{
+    background-color: #ff0000;
+    padding: 12px;
+}
+.history{
+    background-color: #02386E;
+    padding: 12px;}
+    h1,h3{
+        font-family: 'Roboto Slab', serif;
+    }
